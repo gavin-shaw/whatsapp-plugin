@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "whatsapp": {
+      "type": "http",
+      "url": "https://whatsapp-mcp.gnarus.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "whatsapp",
+  "displayName": "WhatsApp",
+  "version": "0.5.0",
+  "description": "Ask Claude about your own WhatsApp. The connector is read-only and never sends. Sign in to use it."
+}

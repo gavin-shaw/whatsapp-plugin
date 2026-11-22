@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-plugin",
+  "description": "Ask Claude about your own WhatsApp. Read-only.",
+  "owner": { "name": "gavin-shaw" },
+  "plugins": [
+    {
+      "name": "whatsapp",
+      "source": "./plugins/whatsapp",
+      "description": "Ask Claude about your own WhatsApp. The connector is read-only and never sends. Sign in to use it."
+    }
+  ]
+}
